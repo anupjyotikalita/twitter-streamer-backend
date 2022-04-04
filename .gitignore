@@ -1,0 +1,15 @@
+# Ignore these files and folders
+
+node_modules/
+.env
+package-lock.json
+yarn.lock
+uploads/
+
+# Log files
+combined.log
+debug.log
+error.log
+.DS_Store
+.idea/
+.vscode/
